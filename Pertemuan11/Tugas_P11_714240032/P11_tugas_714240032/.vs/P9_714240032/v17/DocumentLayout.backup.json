@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|c:\\users\\nurfa\\source\\repos\\p11_tugas_714240032\\p9_714240032\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|c:\\users\\nurfa\\source\\repos\\p11_tugas_714240032\\p9_714240032\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|c:\\users\\nurfa\\source\\repos\\p11_tugas_714240032\\p9_714240032\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|c:\\users\\nurfa\\source\\repos\\p11_tugas_714240032\\p9_714240032\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|c:\\users\\nurfa\\source\\repos\\p11_tugas_714240032\\p9_714240032\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\p9_714240032\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE9669A-F412-4016-A836-539647792CD1}|P9_714240032\\P9_714240032.csproj|solutionrelative:p9_714240032\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_714240032\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:40:41.471Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBarang.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormBarang.cs",
+              "RelativeToolTip": "P9_714240032\\view\\FormBarang.cs",
+              "ViewState": "AgIAAGYAAABgZ2ZmZuY8wIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:16:26.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormTransaksi.cs",
+              "RelativeToolTip": "P9_714240032\\view\\FormTransaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:16:30.679Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714240032\\controller\\Koneksi.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:40:20.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormNilai.cs",
+              "RelativeToolTip": "P9_714240032\\view\\FormNilai.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwJ4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:02:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormTransaksi.cs [Design]",
+              "RelativeToolTip": "P9_714240032\\view\\FormTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:05:14.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "P9_714240032\\view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:21:14.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P9_714240032\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:37:00.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\ParentForm.cs",
+              "RelativeToolTip": "P9_714240032\\view\\ParentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:39:51.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "P9_714240032\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:47:57.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\model\\M_nilai.cs",
+              "RelativeToolTip": "P9_714240032\\model\\M_nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:58:19.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\controller\\Nilai.cs",
+              "RelativeToolTip": "P9_714240032\\controller\\Nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:58:57.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\Program.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\Program.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\Program.cs",
+              "RelativeToolTip": "P9_714240032\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:41:32.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "P9_714240032\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:40:31.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714240032\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:43:21.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714240032\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:34:24.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240032\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\nurfa\\source\\repos\\P11_tugas_714240032\\P9_714240032\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714240032\\view\\Form1.cs",
+              "ViewState": "AgIAAHYAAACAMzMzMzMswCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:40:39.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
